@@ -1,0 +1,23 @@
+""" 
+author = Margarita Guardia
+Ejemplo de impresión de textos
+y estructura de comentarios
+"""
+
+# Esto es una comentario.
+print ("Hola Mundo, desde mi casa.")
+
+print ("Las vacaciones casi empiezan y vamos a estar en nuestras casas :(.") # Esto es otro comentario.
+
+# Esto 
+# también es un comentario
+# y NO es multilínea.
+print ("quien cumpla años estos meses no podrá festejar fuera de su casa :(.")
+
+print ("Me gustaría que ya se acabará esto.")
+
+"""
+Esto 
+también es un comentario
+y es multilínea.
+"""
